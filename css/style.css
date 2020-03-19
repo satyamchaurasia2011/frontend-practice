@@ -1,0 +1,89 @@
+body {
+    font-size: 15px;
+    text-align: center;
+    font-family: Poppins,serif;
+    background-color:hsl(0, 0%, 98%);
+    height: 700px;
+}
+.head1{
+    font-weight: lighter;
+    color: hsl(229, 6%, 66%);
+    font-size: 30px;
+    margin-bottom: 4px;
+    
+    
+}
+.head2{
+    font-weight: 600;
+    color: hsl(234, 12%, 34%);
+    margin-bottom: 17px;
+    margin-top: 4px;
+}
+h2{
+    text-align: left;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+p{
+    font-weight: 200;
+    width: 40%;
+    margin: 20px auto;
+    color: hsl(229, 6%, 66%);
+    font-size: small;
+    margin-top: 5px;
+}
+div{
+    background-color: white;
+    border-top:4px;
+    border-style: solid none none none;
+    width: 30%;
+    text-align: right;
+    margin:auto;
+    
+}
+.red{
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+    border-top-color: hsl(0, 78%, 62%) ;
+}
+.blue{
+    position: relative;
+    left:325px;
+    bottom: 100px;
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+    border-top-color: hsl(212, 86%, 64%);
+}
+.green{
+    position: relative;
+    bottom:300.333px;
+    right: 325px;
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+    border-top-color:hsl(180, 62%, 55%);
+}
+.orange{
+    position: relative;
+    bottom:370px;
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+    border-top-color: hsl(34, 97%, 64%);
+}
+p{
+    width:80%;
+    text-align: left;
+}
+.main{
+    margin:5px auto 50px;
+    width: 38%;
+    text-align: center;
+}
+img {
+    margin-right: 30px;
+    margin-bottom: 50px;
+    
+}
